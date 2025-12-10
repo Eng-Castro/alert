@@ -9,7 +9,7 @@ URL = "https://visa.vfsglobal.com/ago/pt/prt/book-an-appointment"
 
 EMAIL_ORIGEM = "engraciadecastro65@gmail.com"
 EMAIL_SENHA = "dohqumznsvptcfay"  # senha de app
-EMAIL_DESTINO = "engraciadecastro65@gma"
+EMAIL_DESTINO = "engraciadecastro65@gmail.com"
 
 
 def site_disponivel():
