@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: monitor-vfs
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python monitor.py"
